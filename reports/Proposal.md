@@ -1,6 +1,6 @@
 # Proposal
 
-### Title: Predicting the Likelihood of Loan Defaults
+### Title: Classification-Based Predictive Analysis of Loan Default Risks
 
 #### Problem Statement
 
